@@ -27,4 +27,4 @@ end
 
 my_computer = Computer.new("daniel", 1234)
 
-puts my_computer.username
+puts Computer.get_users
